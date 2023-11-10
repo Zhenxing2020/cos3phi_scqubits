@@ -1,1 +1,1 @@
-# $\cos3\phi$_scqubits
+# cos3phi_scqubits
